@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#C0E0E0'
+    - '#084858'
+    - '#5890A8'
+    - '#288898'
+    - '#80C0D0'
+  brandStrength: 0.48158310688967165
+  lightness: 0.8746192016078698
+  rhythmicContrast: 0.7922832882153058
+  saturation: 0.9301402948994891
+cta: {}
+layout_spectrum: 0.902872
+name: TribesofDNA
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.66723
