@@ -1,4 +1,19 @@
-analytics: {}
+name: TribesofDNA
+favicon: null
+layout_spectrum: 0.902872
+typography_spectrum: 0.232264
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#C0E0E0'
@@ -6,13 +21,11 @@ color:
     - '#5890A8'
     - '#288898'
     - '#80C0D0'
-  brandStrength: 0.398649
-  lightness: 0.401182
-  rhythmicContrast: 0.337838
-  saturation: 0.397804
-cta: {}
-layout_spectrum: 0.902872
-name: TribesofDNA
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.232264
+  brandStrength: 0.8125
+  lightness: 0.5
+  saturation: 0.875
+  rhythmicContrast: 0.5
+purpose:
+  - name: null
+    item: null
+    url: null
