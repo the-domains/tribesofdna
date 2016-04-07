@@ -1,20 +1,4 @@
-name: TribesofDNA
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.232264
-title: Make Haste Slowly
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#C0E0E0'
@@ -22,11 +6,13 @@ color:
     - '#5890A8'
     - '#288898'
     - '#80C0D0'
-  brandStrength: 0.48158310688967165
-  lightness: 0.8746192016078698
-  saturation: 0.9301402948994891
-  rhythmicContrast: 0.7922832882153058
-purpose:
-  - name: null
-    item: null
-    url: null
+  brandStrength: 0.398649
+  lightness: 0.401182
+  rhythmicContrast: 0.337838
+  saturation: 0.397804
+cta: {}
+layout_spectrum: 0.902872
+name: TribesofDNA
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.232264
