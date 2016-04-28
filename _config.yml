@@ -21,9 +21,9 @@ color:
     - '#007dca'
     - '#fffff7'
     - '#526176'
-  brandStrength: 0.8125
+  brandStrength: 0
   lightness: 0.5
-  saturation: 0.875
+  saturation: 0
   rhythmicContrast: 0.5
 purpose:
   - name: null
