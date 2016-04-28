@@ -21,10 +21,10 @@ color:
     - '#007dca'
     - '#fffff7'
     - '#526176'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0
-  rhythmicContrast: 0.5
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose:
   - name: null
     item: null
