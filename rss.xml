@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[TribesofDNA]]></title>
         <description><![CDATA[TribesofDNA]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tribesofdna/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 21:25:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Apr 2016 08:23:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tribesofdna/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Full Moon]]></title>
+            <description><![CDATA[<p>I Act </p>]]></description>
+            <link>https://thegrid.ai/tribesofdna/full-moon/index.html</link>
+            <guid isPermaLink="false">c60eeaa5-8006-4ba0-94eb-2f88b2d2cc91</guid>
+            <pubDate>Thu, 28 Apr 2016 08:23:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Why would I even bother. InShort can this AI really be of service? It is definitely a question on my mind at the moment. Further there is some mentioning of web shop. Perhaps, but not anytime soon.</p>]]></description>
-            <link>undefinedad0913e2-e735-46e9-88e8-f762080fe22b/index.html</link>
+            <link>https://thegrid.ai/tribesofdna/ad0913e2-e735-46e9-88e8-f762080fe22b/index.html</link>
             <guid isPermaLink="false">ad0913e2-e735-46e9-88e8-f762080fe22b</guid>
             <pubDate>Thu, 07 Apr 2016 21:25:04 GMT</pubDate>
         </item>
