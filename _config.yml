@@ -1,6 +1,6 @@
 name: TribesofDNA
 favicon: null
-layout_spectrum: 0.75241
+layout_spectrum: 0.25723
 typography_spectrum: 0.232264
 cta:
   domain: null
@@ -21,9 +21,9 @@ color:
     - '#007dca'
     - '#fffff7'
     - '#526176'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 1
-  saturation: 1
+  saturation: 0.5
   rhythmicContrast: 1
 purpose:
   - name: null
