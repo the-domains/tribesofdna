@@ -22,9 +22,9 @@ color:
     - '#fffff7'
     - '#526176'
   brandStrength: 0.5
-  lightness: 1
+  lightness: 0
   saturation: 0.5
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 purpose:
   - name: null
     item: null
