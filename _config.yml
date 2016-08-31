@@ -1,19 +1,4 @@
-name: TribesofDNA
-favicon: null
-layout_spectrum: 0.25723
 typography_spectrum: 0.232264
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -25,7 +10,20 @@ color:
   lightness: 0
   saturation: 0.5
   rhythmicContrast: 0
-purpose:
-  - name: null
-    item: null
-    url: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.25723
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: TribesofDNA
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: We All Come From 0 ∞
+purpose: []
