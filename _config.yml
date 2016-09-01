@@ -19,7 +19,7 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: TribesofDNA
+name: Tribes∞fDNA
 cta:
   domain: null
   bucket: null
@@ -27,6 +27,9 @@ cta:
 navigation:
   - name: Northern Lights
     id: cbd86c10-2cba-4a2f-8a1b-6f57ea9d3861
+    type: content
+  - name: Full Moon
+    id: c60eeaa5-8006-4ba0-94eb-2f88b2d2cc91
     type: content
 favicon: null
 title: We All Come From 0 ∞
